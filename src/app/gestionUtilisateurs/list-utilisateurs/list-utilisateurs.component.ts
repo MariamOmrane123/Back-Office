@@ -57,7 +57,6 @@ export class ListUtilisateursComponent implements OnInit {
         swal("Your user data is safe!");
       }
     });
-    
   }
 
 }
