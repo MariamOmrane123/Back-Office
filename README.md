@@ -1,10 +1,8 @@
 # Back office of Ecommerce website
 # Objective: 
-        1/Products Display
-        2/Buy product
-        3/Decrease the quantity of the product
-        4/Inscription
-        5/Authentification
+        1/Product Management (List / Add / Edit / Delete)  
+        2/User Management (List / Add / Edit / Delete)
+        3/Authentication
 
 # ErpWeb
 
